@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codesandbox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ndnu-oj-NDNU-OJ-FRONTEND" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oj-backend" vcs="Git" />
+  </component>
+</project>
